@@ -27,7 +27,7 @@
 
 | 来源 | 作者 | 授权 | 用途 |
 |---|---|---|---|
-| [Yuji Syuku](https://github.com/Kinutafontfactory/Yuji) | 片岡佑之(Yuji Kataoka) | SIL OFL 1.1 | 原始毛笔楷书字形基础 |
+| [Yuji Syuku](https://github.com/Kinutafontfactory/Yuji) | 片岡佑之（Yuji Kataoka） | SIL OFL 1.1 | 原始毛笔楷书字形基础 |
 | [LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) | LXGW | SIL OFL 1.1 | 简体汉字字形补充 |
 | [zi2zi-JiT](https://github.com/kaonashi-tyc/zi2zi-JiT) | Yuchen Tian | MIT（字体产物需注明出处） | 部分汉字由 AI 字形生成工具辅助生成 |
 
@@ -61,27 +61,6 @@ Current version: **v0.100** (development/preview release)
 前往本仓库 [Releases](../../releases) 页面，下载最新版本的 `.ttf` 字体文件。
 
 Visit the [Releases](../../releases) page of this repository to download the latest `.ttf` font file.
-
-### 安装 · Install
-
-**macOS**
-```
-双击 .ttf 文件 → 点击「安装字体」
-Double-click the .ttf file → click "Install Font"
-```
-
-**Windows**
-```
-右键点击 .ttf 文件 → 选择「安装」或「为所有用户安装」
-Right-click the .ttf file → select "Install" or "Install for all users"
-```
-
-**Linux**
-```bash
-mkdir -p ~/.local/share/fonts
-cp LiyuXingkai-Regular.ttf ~/.local/share/fonts/
-fc-cache -fv
-```
 
 ---
 
