@@ -27,9 +27,9 @@
 
 ### 字体版本 · Version
 
-当前版本：**v0.102**（开发测试版）
+当前版本：**v0.105**（开发测试版）
 
-Current version: **v0.102** (development release)
+Current version: **v0.105** (development release)
 
 ---
 
