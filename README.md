@@ -27,9 +27,9 @@
 
 ### 字体版本 · Version
 
-当前版本：**v0.105**（开发测试版）
+当前版本：**v0.106**（开发测试版）
 
-Current version: **v0.105** (development release)
+Current version: **v0.106** (development release)
 
 ---
 
@@ -45,7 +45,7 @@ Visit the [Releases](../../releases) page of this repository to download the lat
 
 ## 已知问题 · Known Issues
 
-- **当前版本为 v0.102 开发预览版**，部分字形结构与笔画仍在持续优化中，欢迎通过 Issues 反馈。
+- **当前版本为 v0.106 开发预览版**，部分字形结构与笔画仍在持续优化中，欢迎通过 Issues 反馈。
 - **不建议用于 12pt 以下小字**：漓雨手书的细节在极小字号下可能损失，建议正文最小 12pt，标题建议 18pt 以上。
 - **Extension A / B 汉字覆盖有限**：生僻字（CJK 扩展区 A/B）仅收录少量，如有特殊需求请通过 Issues 提交。
 
